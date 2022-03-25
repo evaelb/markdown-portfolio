@@ -1,1 +1,1 @@
-![Image of Macarons](https://media.istockphoto.com/photos/cropped-view-of-female-hand-near-plate-with-multicolored-delicious-picture-id1170541795?k=20&m=1170541795&s=612x612&w=0&h=CmbqX-TkyPpn8IgR3cApplIi_cZyMFQtEF2x4qHupCk=)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
